@@ -1,0 +1,21 @@
+Fonts used in this design:
+
+Font: Bebas Neue
+Author: Fontfabric
+Url: http://www.fontsquirrel.com/fonts/bebas-neue
+
+Font: Pacifico
+Author: Vernon Adams
+Url: http://www.fontsquirrel.com/fonts/pacifico
+
+Font: Raleway
+Author: The League of Moveable Type
+Url: http://www.fontsquirrel.com/fonts/raleway
+
+Font: Riffic
+Author: Nini Prower
+Url: http://www.fontsquirrel.com/fonts/riffic
+
+Font: De Valencia
+Author: Manuel Fernández del Campo García
+Url: https://www.fontsquirrel.com/fonts/de-valencia
